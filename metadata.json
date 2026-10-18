@@ -1,0 +1,6 @@
+{
+  "name": "YG Earn",
+  "description": "YG Earn Official registration and APK download portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
